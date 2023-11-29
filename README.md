@@ -1,12 +1,11 @@
-# 230322 SF 23 Magne Forte 100 Generyk NEW PACKSHOTS
+# 230322 SF 23 Magne Forte 60 Generyk NEW PACKSHOTS
 
 ## LIVE SITE LINK 
 <!-- please enter link to site preview here -->
-[Project live site](https://magne-forte-100-new.netlify.app/)
+[Project live site](https://magne-forte-60-new-generic.netlify.app/)
+
 ## PROJECT PREVIEW
-![image](https://github.com/eStoreLabs/230322-SF-23-Magne-Forte-100-NEW-GENERIC/assets/130984276/f4875f39-69a7-43a0-a48c-0d8fb1a2d13c)
-
-
+![image](https://github.com/eStoreLabs/230322-SF-23-Magne-Forte-60-NEW-GENERIC/assets/130984276/cd63f66d-6b1b-4422-97a5-3c0dd06b7320)
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
